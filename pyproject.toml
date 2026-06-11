@@ -9,6 +9,6 @@ dependencies = []
 Repository = "https://github.com/Holonica-Development-Team/QwenWhiteBgDetector"
 
 [tool.comfy]
-PublisherId = "holonica"
+PublisherId = "holonica-dev"
 DisplayName = "QwenWhiteBgDetector"
 Icon = ""
