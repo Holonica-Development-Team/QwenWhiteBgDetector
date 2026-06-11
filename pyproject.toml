@@ -1,0 +1,14 @@
+[project]
+name = "qwen-whitebg-detector"
+description = "Qwen multi-angle workflow 向けの白背景自動検出 ComfyUI カスタムノード。画像の四辺エッジをサンプリングして白背景かどうかを判定し、背景プロンプト文字列を出力する。"
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Holonica-Development-Team/QwenWhiteBgDetector"
+
+[tool.comfy]
+PublisherId = "holonica"
+DisplayName = "QwenWhiteBgDetector"
+Icon = ""
